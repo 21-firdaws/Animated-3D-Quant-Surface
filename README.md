@@ -1,4 +1,4 @@
-## dev/creator: tubakhxn
+## dev/creator: fhussein
 
 # 3D Quant Surface Visualization
 
@@ -9,6 +9,9 @@ This project generates animated 3D financial visualizations inspired by quant re
 - Animates the view and color for dynamic exploration
 - Demonstrates quant research-style graphics (e.g., PCA, risk surfaces)
 - Easily extensible for your own data or models
+
+## Demo of Output
+<img width="983" height="708" alt="image" src="https://github.com/user-attachments/assets/fc528b65-3ff2-4674-8d32-6e34cb4c384b" />
 
 ## How to fork and run
 1. **Fork this repository** on GitHub (top right corner: "Fork")
